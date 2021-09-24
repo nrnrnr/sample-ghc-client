@@ -11,7 +11,8 @@ maintainer:         nr@cs.tufts.edu
 
 extra-source-files: README.md
 
-executable sandbox
+executable sample-ghc-client
+
     main-is:          Main.hs
 
     -- Modules included in this executable, other than Main.
