@@ -36,7 +36,7 @@ experience a similar issue with 8.10.5.
     Configuring sample-ghc-client-0.1.0.0...
     ```
 
-  7. Build the package.
+ 7. Build the package.
 
     ```
     nr@homedog ~/a/sample-ghc-client> cabal v1-build
